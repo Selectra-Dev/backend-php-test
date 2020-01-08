@@ -31,7 +31,8 @@ Please, when you finish the test, send us the link from your public git reposito
 
 # Part I
 
-According to the SQL dump (attached at the end of this document) to the test, the candidate needs to do a PHP script which connects to the database and shows the list of basketball teams together with all the associated images (or none in case it has not any).
+According to the [SQL dump](/resources/database/nba_test.sql), the candidate needs to do a PHP script which connects to the database and shows the list of basketball teams together with all the associated images (or none in case it has not any).
+
 
 # Part II
 
