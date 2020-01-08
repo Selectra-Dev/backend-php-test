@@ -1,5 +1,20 @@
 Selectra Backend Technical test
 =
+![Selectra Technical Challenge](/resources/images/selectra.png)
+
+Welcome to Selectra's technical challenge!
+
+# Table of contents
+
+1. [Description](#description)
+
+2. [Part I](#part-i)
+
+3. [Part II](#part-ii)
+
+4. [Part III (optional)](#part-iii-optional)
+
+# Description
 
 Remember this test is to show your skills, use the best practices you know. You should use PHP, but feel free to use anything you know.
 
