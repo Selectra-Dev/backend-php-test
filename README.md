@@ -66,5 +66,7 @@ Match 6:
 # Part III (optional)
 
 The candidate should implement a CLI version of the exercise Part II.
-1. The console asks the user for the number of matches
+1. The console asks the user for the number of teams
 2. The program generates an output with the matches
+
+The candidate is free to implement this part however he/she wants.
