@@ -38,7 +38,7 @@ According to the [SQL dump](/resources/database/nba_test.sql), the candidate nee
 
 Using the same list of teams from Part I, define a schedule of matches between them, taking in mind:
 1. Two phases, in each phase all the teams have to play against the rest of them
-2. Two teams cannot play twice in the same phase
+2. Two teams cannot play twice in the same match phase
 3. All the teams must play the same number of times as local and as a visitor (optional but recommended)
 
 ```shell script
