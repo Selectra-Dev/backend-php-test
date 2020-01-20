@@ -16,7 +16,7 @@ Welcome to Selectra's technical challenge!
 
 # Description
 
-Remember this test is to show your skills, use the best practices you know. You should use PHP, but feel free to use anything you know.
+Remember this test is to show your skills, use the best practices you know. You should use PHP, feel free to use any framework you know.
 
 It doesn’t need to be all done, we just want to see the code you write.
 Also, you can modify or improve any part of the test if you want to.
